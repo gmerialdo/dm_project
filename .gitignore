@@ -1,5 +1,5 @@
-api_dailymotion\conf.php
-api_dailymotion\.htaccess
-api_dailymotion\.env
-api_mail_server\conf.php
-api_mail_server\.htaccess
+api_dailymotion/conf.php
+api_dailymotion/.htaccess
+api_dailymotion/.env
+api_mail_server/conf.php
+api_mail_server/.htaccess
