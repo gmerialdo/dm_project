@@ -7,7 +7,7 @@ $GLOBALS["envProd"] = false;
 $GLOBALS["db"] = [
     "host"      => 'mysql',
     "user"      => 'root',
-    "password"  => '',
+    "password"  => 'root',
     "database"  => 'dailymotion'
 ];
 
