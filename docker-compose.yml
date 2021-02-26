@@ -19,8 +19,8 @@ services:
     container_name: php_web
     restart: always
     volumes:
-      - ./api_dailymotion:/var/www/api_dailymotion
-      - ./api_mail_server:/var/www/api_mail_server
+      - ./api_dailymotion:/var/www/html/api_dailymotion
+      - ./api_mail_server:/var/www/html/api_mail_server
     ports:
       - "8080:80"
     depends_on:
